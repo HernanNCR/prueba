@@ -8,3 +8,5 @@ var concatenacion= nombre+" "+apellido;
 var dato = document.getElementById("dato");
 
 dato.innerHTML = concatenacion;
+
+alert('aaa')

@@ -1,0 +1,17 @@
+.row{
+    background-color: aqua;
+}
+.col{
+    background-color: red;
+    margin: 30px;
+}
+.img{
+    background-color: blueviolet;
+    margin: auto;
+    display: block;
+    width: 200px;
+}
+.saludo{
+    color: beige;
+    background-color: burlywood;
+}
